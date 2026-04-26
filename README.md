@@ -16,7 +16,7 @@ function hello() {
 
 hello();
 ```
-##Kuvan lisääminen
+## Kuvan lisääminen
 ![Kukkia](https://github.com/user-attachments/assets/5abdaa7a-2582-4c1f-8e59-8f0ddbf9b08b)
 
 
