@@ -1,4 +1,4 @@
-# pilvipalvelu
+# Pilvipalvelut tehtävä
 
 ## Minulla on kaksi kissaa
 
@@ -16,3 +16,6 @@ function hello() {
 
 hello();
 ```
+##Kuvan lisääminen
+
+![Kukkia](https://pixabay.com/images/download/noname_13-dandelion-3382663_1920.jpg)
