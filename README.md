@@ -18,4 +18,5 @@ hello();
 ```
 ##Kuvan lisääminen
 
-![Kukkia](https://pixabay.com/images/download/noname_13-dandelion-3382663_1920.jpg)
+![Kukkia](<img width="1280" height="690" alt="kuva" src="https://github.com/user-attachments/assets/5abdaa7a-2582-4c1f-8e59-8f0ddbf9b08b" />)
+
